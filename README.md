@@ -44,10 +44,8 @@ Este notebook do Google Colab configura e utiliza a API Gemini para criar um age
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhoria ou encontrar problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
 
-[Seu tipo de licença, por exemplo, MIT License]
 
 ## Autor
 
-[Seu Nome ou Pseudônimo]
+[Ed Carlos De Oliveira]
